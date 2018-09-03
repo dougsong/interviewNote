@@ -1,0 +1,10 @@
+## Java并发
+
+### 线程状态
+
+1. NEW              新建
+2. RUNNABLE   运行
+3. BLOCKED      阻塞
+4. WAITING       等待
+5. TIMED_WAITING    有限等待
+6. TERMINATED          销毁
